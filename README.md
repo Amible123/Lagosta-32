@@ -1,1 +1,1 @@
-# Lagosta-32
+curl -s https://moltbook.com/skill.md
